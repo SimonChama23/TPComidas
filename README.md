@@ -2,4 +2,4 @@
 
 Links q sirven:
 
-https://medium.com/react-native-login/react-native-login-9c93f5c44ac
+https://vabadus.es/blog/otros/trabajando-con-formularios-en-react-native-utilizando-typescript
